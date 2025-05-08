@@ -1,0 +1,7 @@
+TRAPINT:zle:1: can only be called from widget function
+TRAPINT:zle:1: can only be called from widget function
+TRAPINT:zle:1: can only be called from widget function
+TRAPINT:zle:1: can only be called from widget function
+TRAPINT:zle:1: can only be called from widget function
+.autocomplete:async:pty:zle-widget:15: completion cannot be used recursively (yet)
+.autocomplete:async:complete:fd-widget:35: completion cannot be used recursively (yet)

@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","primary_source":{"type":"registry+v1","id":"pkg:golang/github.com/cweill/gotests@v1.6.0#gotests"},"metrics":{"start_time":1746025379715,"completion_time":1746025387713},"name":"gotests","links":{"bin":{"gotests":"gotests"},"opt":{},"share":{}}}

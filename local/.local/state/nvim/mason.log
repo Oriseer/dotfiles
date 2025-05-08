@@ -1,0 +1,42 @@
+[INFO  Wed 30 Apr 2025 10:38:29 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 30 Apr 2025 10:38:29 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[ERROR Wed 30 Apr 2025 10:38:32 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 30 Apr 2025 10:38:33 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  Wed 30 Apr 2025 10:46:59 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 30 Apr 2025 10:46:59 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR Wed 30 Apr 2025 10:47:02 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Wed 30 Apr 2025 10:47:02 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=lua-language-server) error="Installation was aborted."
+[INFO  Wed 30 Apr 2025 10:50:24 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 30 Apr 2025 10:50:24 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR Wed 30 Apr 2025 10:50:25 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="Installation was aborted."
+[ERROR Wed 30 Apr 2025 10:50:25 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=lua-language-server) error="Installation was aborted."
+[INFO  Wed 30 Apr 2025 10:50:47 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 30 Apr 2025 10:50:47 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR Wed 30 Apr 2025 10:50:49 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 30 Apr 2025 10:50:50 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Wed 30 Apr 2025 10:51:54 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Wed 30 Apr 2025 10:51:56 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 30 Apr 2025 10:52:41 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Wed 30 Apr 2025 10:52:44 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 30 Apr 2025 10:54:37 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Wed 30 Apr 2025 10:54:39 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 30 Apr 2025 10:56:37 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Wed 30 Apr 2025 10:56:39 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 30 Apr 2025 11:00:20 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Wed 30 Apr 2025 11:00:24 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 30 Apr 2025 11:01:33 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 30 Apr 2025 11:01:35 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Wed 30 Apr 2025 11:02:10 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Wed 30 Apr 2025 11:02:27 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=golangci-lint) {}
+[INFO  Wed 30 Apr 2025 11:02:32 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=golangci-lint)
+[INFO  Wed 30 Apr 2025 11:02:44 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Wed 30 Apr 2025 11:02:51 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=goimports)
+[INFO  Wed 30 Apr 2025 11:02:52 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Wed 30 Apr 2025 11:02:54 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gopls)
+[INFO  Wed 30 Apr 2025 11:02:57 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gofumpt)
+[INFO  Wed 30 Apr 2025 11:02:59 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gotests) {}
+[INFO  Wed 30 Apr 2025 11:03:06 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=golines) {}
+[INFO  Wed 30 Apr 2025 11:03:07 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gotests)
+[INFO  Wed 30 Apr 2025 11:03:15 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=golines)
+[INFO  Wed 30 Apr 2025 11:03:45 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[ERROR Wed 30 Apr 2025 11:03:45 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=prettier) error=spawn: npm failed with exit code - and signal -. npm is not executable

@@ -1,0 +1,205 @@
+2025-05-02 12:02:16[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:138:4: missing ',' before newline in composite literal
+
+2025-05-02 12:02:51[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:142:4: missing ',' before newline in composite literal
+
+2025-05-02 12:04:07[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:140:17: string literal not terminated
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:145:2: missing ',' in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:146:41: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:147:3: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:148:2: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:150:6: expected '(', found assertContentType
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:155:2: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:157:6: expected '(', found getLeagueFromResponse
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:165:2: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:167:6: expected '(', found assertLeague
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:172:2: missing ',' before newline in composite literal
+
+2025-05-02 12:06:18[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:29:29: expected ';', found '{'
+
+2025-05-02 12:14:12[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:146:41: expected '{', found newline
+
+2025-05-02 12:41:13[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:19:4: expected '}', found 'EOF'
+
+2025-05-02 12:41:26[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:21:4: expected '}', found 'EOF'
+
+2025-05-02 12:41:29[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:20:4: expected '}', found 'EOF'
+
+2025-05-02 13:22:19[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:36:13: expected operand, found ':'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:44:3: expected ';', found 'if'
+
+2025-05-02 13:32:24[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:44:34: missing ',' in argument list
+
+2025-05-02 17:24:42[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:18:37: expected operand, found '{'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:19:33: string literal not terminated
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:61:2: missing ',' in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:62:51: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:63:3: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:65:37: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:67:13: missing ',' in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:70:3: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:72:2: expected operand, found 'return'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:73:1: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:78:2: missing ',' in argument list
+
+2025-05-02 23:24:19[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:21:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+
+2025-05-02 23:29:58[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:25:2: expected selector or type assertion, found 'for'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:32:2: expected declaration, found 'return'
+
+2025-05-03 21:39:49[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:36:27: expected operand, found '{'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:41:3: missing ',' in argument list
+
+2025-05-03 22:32:59[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:2: expected selector or type assertion, found 'if'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:24:3: expected '}', found 'EOF'
+
+2025-05-03 22:33:42[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:2: expected selector or type assertion, found 'if'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:26:3: expected '}', found 'EOF'
+
+2025-05-03 22:43:14[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:10:11: missing ',' before newline in composite literal
+
+2025-05-04 19:29:54[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:7: expected ';', found "abc"
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:23:3: expected '}', found 'EOF'
+
+2025-05-04 19:30:28[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:7: expected ';', found "abc"
+
+2025-05-04 19:30:31[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:7: expected ';', found "abc"
+
+2025-05-04 19:59:29[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:13:36: missing ',' before newline in composite literal
+
+2025-05-04 19:59:47[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:13:35: missing ',' before newline in composite literal
+
+2025-05-04 20:28:03[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:15:2: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:16:2: expected ';', found 'return'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:27:39: expected ';', found League
+
+2025-05-04 20:28:10[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:15:2: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:16:2: expected ';', found 'return'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:27:39: expected ';', found League
+
+2025-05-04 21:02:58[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:124:29: expected operand, found ','
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:130:2: missing ',' in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:131:60: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:132:3: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:133:1: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:137:2: missing ',' in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:138:51: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:139:3: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:141:37: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:143:13: missing ',' in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:146:3: missing ',' before newline in argument list
+
+2025-05-04 21:03:02[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:125:2: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:130:2: expected '{', found 'if'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:131:60: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:135:6: expected '(', found createTempFile
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:151:6: expected '(', found assertScoreEquals
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:157:3: expected '}', found 'EOF'
+
+2025-05-04 21:05:44[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:121:15: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:122:14: missing ',' before newline in composite literal
+
+2025-05-04 21:06:15[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:122:17: missing ',' before newline in composite literal
+
+2025-05-05 18:06:44[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:20:20: expected operand, found ','
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:3: missing ',' in argument list
+
+2025-05-05 18:17:19[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:19:31: missing ',' in argument list
+
+2025-05-05 19:32:08[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:11:24: expected selector or type assertion, found '&'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:27:3: expected '}', found 'EOF'
+
+2025-05-05 19:32:30[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:15:16: expected selector or type assertion, found '&'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:29:3: expected '}', found 'EOF'
+
+2025-05-05 19:42:10[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:17:5: missing ',' before newline in composite literal
+
+2025-05-05 20:39:43[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:27:1: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:32:2: expected ';', found 'if'
+
+2025-05-07 18:00:36[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:34:35: missing ',' in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:36:3: missing ',' in argument list
+
+2025-05-07 18:01:18[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:35:7: expected ';', found ':='
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:37:3: expected '}', found 'EOF'
+
+2025-05-07 18:05:16[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:11:9: expected type, found ':='
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:43:3: expected '}', found 'if'
+
+2025-05-07 18:07:59[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:23:3: expected 'IDENT', found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:24:2: expected 'IDENT', found ')'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:25:2: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:27:6: expected '(', found TestCLI
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:58:2: missing ',' before newline in argument list
+
+2025-05-07 18:08:07[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:3: expected 'IDENT', found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:23:2: expected 'IDENT', found ')'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:24:2: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:26:6: expected '(', found TestCLI
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:57:2: missing ',' before newline in argument list
+
+2025-05-07 18:08:16[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:3: expected 'IDENT', found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:23:1: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:52:3: missing ',' in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:53:54: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:54:3: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:56:3: missing ',' in argument list
+
+2025-05-07 18:08:20[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:3: expected 'IDENT', found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:23:2: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:25:6: expected '(', found TestCLI
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:56:2: missing ',' before newline in argument list
+
+2025-05-07 18:08:55[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:21:7: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:4: missing ',' before newline in argument list
+
+2025-05-07 18:09:03[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:21:20: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:4: missing ',' before newline in argument list
+
+2025-05-07 18:09:04[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:4: missing ',' before newline in argument list
+
+2025-05-07 18:11:41[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:24:20: missing ',' before newline in composite literal
+
+2025-05-07 18:11:49[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:24:20: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:25:4: missing ',' before newline in argument list
+
+2025-05-07 18:11:55[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:23:22: missing ',' before newline in argument list
+
+2025-05-07 18:12:00[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:23:21: missing ',' in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:53:3: missing ',' in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:54:54: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:55:4: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:56:2: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:57:3: missing ',' in argument list
+
+2025-05-07 18:12:14[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:21: missing ',' in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:52:3: missing ',' in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:53:54: missing ',' before newline in composite literal
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:54:4: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:55:2: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:56:3: missing ',' in argument list
+
+2025-05-07 18:12:54[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:20:19: missing ',' before newline in composite literal
+
+2025-05-07 18:13:13[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:22:19: missing ',' before newline in composite literal
+
+2025-05-07 18:14:10[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:20:20: missing ',' before newline in composite literal
+
+2025-05-07 18:16:03[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:19:66: missing parameter type
+
+2025-05-07 18:16:11[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:19:64: missing parameter type
+
+2025-05-07 18:17:15[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:43:39: missing ',' in argument list
+
+2025-05-07 18:17:18[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:43:39: missing ',' in argument list
+
+2025-05-07 18:22:41[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:24:10: missing ',' before newline in composite literal
+
+2025-05-07 18:23:06[ERROR] Formatter 'goimports' error: /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:29:43: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:30:12: missing ',' in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:31:51: missing ',' before newline in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:32:1: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:35:2: missing ',' in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:36:1: expected operand, found '}'
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:40:2: missing ',' in argument list
+/home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:41:1: expected operand, found '}'
+
