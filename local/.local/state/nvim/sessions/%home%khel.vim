@@ -13,18 +13,11 @@ if &shortmess =~ 'A'
 else
   set shortmess=aoO
 endif
-badd +80 .config/waybar/modules.json
+badd +66 .zshrc
 argglobal
 %argdel
-$argadd .config/waybar/modules.json
-edit .config/waybar/modules.json
-wincmd t
-let s:save_winminheight = &winminheight
-let s:save_winminwidth = &winminwidth
-set winminheight=0
-set winheight=1
-set winminwidth=0
-set winwidth=1
+$argadd .zshrc
+edit .zshrc
 argglobal
 setlocal foldmethod=expr
 setlocal foldexpr=v:lua.require'lazyvim.util'.ui.foldexpr()
@@ -34,18 +27,12 @@ setlocal foldlevel=99
 setlocal foldminlines=1
 setlocal foldnestmax=20
 setlocal foldenable
-1
-sil! normal! zo
-74
-sil! normal! zo
-86
-sil! normal! zo
-let s:l = 80 - ((31 * winheight(0) + 24) / 48)
+let s:l = 66 - ((39 * winheight(0) + 23) / 46)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 80
-normal! 030|
+keepjumps 66
+normal! 0
 tabnext 1
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0 && getbufvar(s:wipebuf, '&buftype') isnot# 'terminal'
   silent exe 'bwipe ' . s:wipebuf
@@ -53,8 +40,6 @@ endif
 unlet! s:wipebuf
 set winheight=1 winwidth=20
 let &shortmess = s:shortmess_save
-let &winminheight = s:save_winminheight
-let &winminwidth = s:save_winminwidth
 let s:sx = expand("<sfile>:p:r")."x.vim"
 if filereadable(s:sx)
   exe "source " . fnameescape(s:sx)

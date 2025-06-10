@@ -1,4 +1,12 @@
 !_TAG_FILE_ENCODING	utf-8	//
+blink-cmp-copilot-blink-cmp-copilot	blink-cmp-copilot.md	/# blink-cmp-copilot
+blink-cmp-copilot-configuration	blink-cmp-copilot.md	/### Configuration:
+blink-cmp-copilot-copilot-kind-icon	blink-cmp-copilot.md	/#### Copilot Kind Icon
+blink-cmp-copilot-install	blink-cmp-copilot.md	/### Install
+blink-cmp-copilot-lazy	blink-cmp-copilot.md	/#### Lazy
+blink-cmp-copilot-packer	blink-cmp-copilot.md	/#### Packer
+blink-cmp-copilot-setup	blink-cmp-copilot.md	/## Setup
+blink-cmp-copilot-source-definition	blink-cmp-copilot.md	/#### Source Definition
 friendly-snippets-add-snippets-from-a-framework-to-a-filetype	friendly-snippets.md	/## Add snippets from a framework to a filetype.
 friendly-snippets-credits	friendly-snippets.md	/## Credits
 friendly-snippets-excluding-snippets	friendly-snippets.md	/## Excluding snippets

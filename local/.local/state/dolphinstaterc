@@ -1,6 +1,6 @@
 [Open-with settings]
 CompletionMode=1
-History=firefox,gwenview,feh,sxiv
+History=vlc,sxiv,brave,firefox,gwenview,feh
 
 [SettingsDialog]
 1920x1080 screen: Window-Maximized=true

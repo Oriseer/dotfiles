@@ -40,3 +40,164 @@
 [INFO  Wed 30 Apr 2025 11:03:15 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=golines)
 [INFO  Wed 30 Apr 2025 11:03:45 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
 [ERROR Wed 30 Apr 2025 11:03:45 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=prettier) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri 09 May 2025 10:31:28 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=goimports) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 09 May 2025 10:31:28 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=golangci-lint) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 09 May 2025 10:31:34 PM PST] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=golangci-lint) {
+  bypass_permit = true
+}
+[INFO  Fri 09 May 2025 10:31:34 PM PST] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=golangci-lint)
+[INFO  Fri 09 May 2025 10:31:34 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=golangci-lint)
+[INFO  Fri 09 May 2025 10:31:37 PM PST] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=goimports) {
+  bypass_permit = true
+}
+[INFO  Fri 09 May 2025 10:31:37 PM PST] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=goimports)
+[INFO  Fri 09 May 2025 10:31:37 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=goimports)
+[INFO  Fri 09 May 2025 10:32:51 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=golangci-lint-langserver) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 09 May 2025 10:32:59 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=golangci-lint-langserver)
+[INFO  Fri 09 May 2025 10:33:24 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gospel) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Fri 09 May 2025 10:33:33 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. go: downloading github.com/kortschak/gospel v1.15.0
+go: downloading github.com/kortschak/camel v0.0.0-20220208065757-0665e01e7dba
+go: downloading github.com/BurntSushi/toml v1.0.0
+go: downloading github.com/google/licensecheck v0.3.1
+go: downloading github.com/kortschak/ct v0.0.0-20140325011614-7d86dffe6951
+go: downloading github.com/kortschak/hunspell v0.0.0-20220305030544-5d8374a03860
+go: downloading golang.org/x/sys v0.26.0
+go: downloading golang.org/x/tools v0.26.0
+go: downloading mvdan.cc/xurls/v2 v2.4.0
+go: downloading golang.org/x/sync v0.8.0
+go: downloading golang.org/x/mod v0.21.0
+golang.org/x/tools/internal/packagesinternal
+github.com/kortschak/camel
+mvdan.cc/xurls/v2
+golang.org/x/mod/semver
+github.com/BurntSushi/toml/internal
+github.com/kortschak/ct
+github.com/kortschak/hunspell
+github.com/google/licensecheck/internal/match
+golang.org/x/sys/execabs
+github.com/BurntSushi/toml
+golang.org/x/sync/errgroup
+golang.org/x/tools/internal/aliases
+golang.org/x/tools/internal/typeparams
+golang.org/x/tools/internal/stdlib
+golang.org/x/tools/internal/versions
+golang.org/x/tools/internal/pkgbits
+golang.org/x/tools/internal/event/label
+golang.org/x/tools/internal/event/keys
+golang.org/x/tools/go/types/typeutil
+github.com/google/licensecheck
+golang.org/x/tools/internal/event/core
+golang.org/x/tools/internal/event
+golang.org/x/tools/internal/gocommand
+golang.org/x/tools/internal/typesinternal
+golang.org/x/tools/go/types/objectpath
+golang.org/x/tools/internal/gcimporter
+# github.com/kortschak/hunspell
+# [pkg-config --cflags  -- hunspell]
+Package hunspell was not found in the pkg-config search path.
+Perhaps you should add the directory containing `hunspell.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'hunspell' not found
+golang.org/x/tools/go/gcexportdata
+golang.org/x/tools/go/packages
+
+[INFO  Fri 09 May 2025 10:34:11 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gospel) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Fri 09 May 2025 10:34:12 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. github.com/kortschak/hunspell
+# github.com/kortschak/hunspell
+# [pkg-config --cflags  -- hunspell]
+Package hunspell was not found in the pkg-config search path.
+Perhaps you should add the directory containing `hunspell.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'hunspell' not found
+
+[INFO  Fri 09 May 2025 10:34:15 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gospel) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Fri 09 May 2025 10:34:16 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. github.com/kortschak/hunspell
+# github.com/kortschak/hunspell
+# [pkg-config --cflags  -- hunspell]
+Package hunspell was not found in the pkg-config search path.
+Perhaps you should add the directory containing `hunspell.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'hunspell' not found
+
+[INFO  Fri 09 May 2025 10:34:17 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gospel) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Fri 09 May 2025 10:34:18 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. github.com/kortschak/hunspell
+# github.com/kortschak/hunspell
+# [pkg-config --cflags  -- hunspell]
+Package hunspell was not found in the pkg-config search path.
+Perhaps you should add the directory containing `hunspell.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'hunspell' not found
+
+[INFO  Fri 09 May 2025 10:38:15 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gci) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 09 May 2025 10:38:24 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=gci)
+[ERROR Fri 09 May 2025 10:58:54 PM PST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:31: Cannot find package "\"-y\"".
+[INFO  Fri 09 May 2025 10:59:17 PM PST] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=golangci-lint-langserver) {}
+[INFO  Fri 09 May 2025 10:59:17 PM PST] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=golangci-lint-langserver)
+[INFO  Fri 09 May 2025 10:59:20 PM PST] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=gopls) {}
+[INFO  Fri 09 May 2025 10:59:20 PM PST] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=gopls)
+[INFO  Fri 09 May 2025 10:59:53 PM PST] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=lua-language-server) {}
+[INFO  Fri 09 May 2025 10:59:53 PM PST] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=lua-language-server)
+[INFO  Fri 09 May 2025 11:00:32 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=gopls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 09 May 2025 11:00:50 PM PST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=gopls)
+[INFO  Fri 09 May 2025 11:16:43 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Fri 09 May 2025 11:16:43 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Fri 09 May 2025 11:16:48 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Fri 09 May 2025 11:16:51 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=json-lsp)
+[INFO  Fri 09 May 2025 11:18:25 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=golangci-lint-langserver) {}
+[INFO  Fri 09 May 2025 11:18:27 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=golangci-lint-langserver)
+[INFO  Sat 10 May 2025 06:40:03 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shellcheck) {}
+[INFO  Sat 10 May 2025 06:40:03 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  Sat 10 May 2025 06:40:13 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shellcheck)
+[INFO  Sat 10 May 2025 06:40:21 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=bash-language-server)
+[INFO  Sun 11 May 2025 10:38:11 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gci) {}
+[INFO  Sun 11 May 2025 10:38:14 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gci)
+[INFO  Sun 11 May 2025 10:38:19 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Sun 11 May 2025 10:38:22 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=goimports)
+[INFO  Tue 13 May 2025 09:51:23 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  Tue 13 May 2025 09:53:52 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=html-lsp)
+[INFO  Fri 16 May 2025 03:42:46 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lwc-language-server) {}
+[INFO  Fri 16 May 2025 03:43:38 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lwc-language-server)
+[INFO  Fri 16 May 2025 03:56:11 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lwc-language-server) {}
+[INFO  Fri 16 May 2025 03:56:35 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lwc-language-server)
+[ERROR Wed 21 May 2025 09:21:07 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Wed 21 May 2025 09:21:07 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Wed 21 May 2025 09:21:07 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:92: No provider implementation succeeded for github.get_latest_release
+[ERROR Wed 21 May 2025 09:21:07 PM PST] ...im/lazy/mason.nvim/lua/mason-registry/sources/github.lua:146: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[INFO  Tue 03 Jun 2025 06:12:53 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=delve) {}
+[INFO  Tue 03 Jun 2025 06:13:06 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=delve)

@@ -203,3 +203,7 @@
 /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:40:2: missing ',' in argument list
 /home/khel/KhelDev/go/learning_go/simpleApi/<standard input>:41:1: expected operand, found '}'
 
+2025-06-10 20:09:26[ERROR] Formatter 'shfmt' error: /home/khel/.oh-my-zsh/oh-my-zsh.sh:51:34: parameter expansion requires a literal
+
+2025-06-10 20:09:36[ERROR] Formatter 'shfmt' error: /home/khel/.oh-my-zsh/oh-my-zsh.sh:51:34: parameter expansion requires a literal
+

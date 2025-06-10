@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","primary_source":{"type":"registry+v1","id":"pkg:golang/github.com/nametake/golangci-lint-langserver@v0.0.11"},"name":"golangci-lint-langserver","metrics":{"completion_time":1746803907542,"start_time":1746803905718},"links":{"bin":{"golangci-lint-langserver":"golangci-lint-langserver"},"share":{},"opt":{}}}
