@@ -8,13 +8,14 @@ blur = true
 opacity = 0.8
 
 [font.normal]
-family = "UbuntuMono Nerd Font"
+family = "Hack Nerd Font"
 
 [font.bold]
-family = "UbuntuMono Nerd Font"
+family = "Hack Nerd Font"
 
 [font.italic]
-family = "UbuntuMono Nerd Font"
+family = "Hack Nerd Font"
 
 [font]
 size = 16
+
