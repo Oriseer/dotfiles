@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=freeshow
-Comment=Freeshow app
-Exec=/usr/local/bin/FreeShow-1.4.3-x86_64.AppImage
-Terminal=false
-Categories=Utility;

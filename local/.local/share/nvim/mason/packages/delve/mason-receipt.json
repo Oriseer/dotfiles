@@ -1,1 +1,0 @@
-{"name":"delve","metrics":{"completion_time":1748945586639,"start_time":1748945573153},"links":{"share":{},"opt":{},"bin":{"dlv":"dlv"}},"secondary_sources":[],"schema_version":"1.1","primary_source":{"type":"registry+v1","id":"pkg:golang/github.com/go-delve/delve@v1.24.2#cmd/dlv"}}

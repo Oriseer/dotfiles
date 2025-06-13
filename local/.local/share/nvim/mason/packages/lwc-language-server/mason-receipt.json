@@ -1,1 +1,0 @@
-{"metrics":{"completion_time":1747382195465,"start_time":1747382171572},"name":"lwc-language-server","primary_source":{"type":"registry+v1","id":"pkg:npm/%40salesforce/lwc-language-server@4.12.3"},"secondary_sources":[],"schema_version":"1.1","links":{"opt":{},"bin":{"lwc-language-server":"node_modules/.bin/lwc-language-server"},"share":{}}}
