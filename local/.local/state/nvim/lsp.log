@@ -72,3 +72,34 @@
 [START][2025-06-13 22:56:37] LSP logging initiated
 [ERROR][2025-06-13 22:56:37] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:4464) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
 [ERROR][2025-06-13 22:56:37] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:4464) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(node:4464) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(node:4464) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n"
+[START][2025-06-14 12:54:00] LSP logging initiated
+[ERROR][2025-06-14 12:54:00] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:4703) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n(node:4703) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(node:4703) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n"
+[ERROR][2025-06-14 12:54:00] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:4703) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n"
+[ERROR][2025-06-14 13:03:16] ...lsp/handlers.lua:562	"2025/06/14 13:03:16 signature help failed: cannot get type for Fun *ast.Ident (AddExpense)\n\tposition=5:12\n"
+[ERROR][2025-06-14 13:03:43] ...lsp/handlers.lua:562	"2025/06/14 13:03:43 signature help failed: cannot get type for Fun *ast.Ident (AddExpense)\n\tposition=9:12\n"
+[ERROR][2025-06-14 13:03:44] ...lsp/handlers.lua:562	"2025/06/14 13:03:44 signature help failed: cannot get type for Fun *ast.Ident (AddExpense)\n\tposition=9:12\n"
+[ERROR][2025-06-14 13:03:48] ...lsp/handlers.lua:562	"2025/06/14 13:03:48 signature help failed: cannot get type for Fun *ast.Ident (AddExpense)\n\tposition=9:12\n"
+[ERROR][2025-06-14 13:03:50] ...lsp/handlers.lua:562	"2025/06/14 13:03:50 signature help failed: cannot get type for Fun *ast.Ident (AddExpense)\n\tposition=9:17\n"
+[ERROR][2025-06-14 13:03:50] ...lsp/handlers.lua:562	"2025/06/14 13:03:50 signature help failed: cannot get type for Fun *ast.Ident (AddExpense)\n\tposition=9:18\n"
+[ERROR][2025-06-14 13:03:51] ...lsp/handlers.lua:562	"2025/06/14 13:03:51 signature help failed: cannot get type for Fun *ast.Ident (AddExpense)\n\tposition=9:18\n"
+[ERROR][2025-06-14 13:04:00] ...lsp/handlers.lua:562	"2025/06/14 13:04:00 signature help failed: cannot get type for Fun *ast.Ident (AddExpense)\n\tposition=9:17\n"
+[START][2025-06-14 13:09:42] LSP logging initiated
+[ERROR][2025-06-14 13:09:42] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:12308) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[ERROR][2025-06-14 13:09:42] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:12308) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(node:12308) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(node:12308) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n"
+[START][2025-06-14 13:14:53] LSP logging initiated
+[ERROR][2025-06-14 13:14:53] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:18103) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[ERROR][2025-06-14 13:14:53] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:18103) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(node:18103) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(node:18103) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n"
+[START][2025-06-14 13:19:08] LSP logging initiated
+[ERROR][2025-06-14 13:19:08] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:18975) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[ERROR][2025-06-14 13:19:08] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:18975) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n"
+[ERROR][2025-06-14 13:19:08] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:18975) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n"
+[ERROR][2025-06-14 13:19:08] ...p/_transport.lua:36	"rpc"	"node"	"stderr"	"(node:18975) [DEP0132] DeprecationWarning: Passing a callback to worker.terminate() is deprecated. It returns a Promise instead.\n"
+[START][2025-06-14 15:42:39] LSP logging initiated
+[ERROR][2025-06-14 15:42:39] ...lsp/handlers.lua:562	"2025/06/14 15:42:39 signature help failed: call operand is not a func or type: *ast.Ident (len)\n\tposition=26:8\n"
+[ERROR][2025-06-14 17:18:14] ...lsp/handlers.lua:562	"2025/06/14 17:18:14 signature help failed: call operand is not a func or type: *ast.Ident (len)\n\tposition=37:8\n"
+[START][2025-06-14 20:02:53] LSP logging initiated
+[ERROR][2025-06-14 20:02:53] ...lsp/handlers.lua:562	"2025/06/14 20:02:53 signature help failed: cannot get type for Fun *ast.Ident (NewExp)\n\tposition=65:21\n"
+[ERROR][2025-06-14 20:02:55] ...lsp/handlers.lua:562	"2025/06/14 20:02:55 signature help failed: cannot get type for Fun *ast.Ident (NewExp)\n\tposition=65:21\n"
+[START][2025-06-14 20:37:57] LSP logging initiated
+[ERROR][2025-06-14 20:37:57] ...lsp/handlers.lua:562	"2025/06/14 20:37:57 signature help failed: call operand is not a func or type: *ast.Ident (len)\n\tposition=87:10\n"
+[ERROR][2025-06-14 20:39:23] ...lsp/handlers.lua:562	"2025/06/14 20:39:23 signature help failed: call operand is not a func or type: *ast.Ident (len)\n\tposition=84:10\n"

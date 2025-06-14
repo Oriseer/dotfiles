@@ -504,7 +504,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/forcedotcom/salesforcedx-vscode@v63.16.3",
+      "id": "pkg:github/forcedotcom/salesforcedx-vscode@v64.0.3",
       "asset": {
         "file": "salesforcedx-vscode-apex-{{ version | strip_prefix \"v\" }}.vsix"
       }
@@ -2178,7 +2178,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/clojure-lsp/clojure-lsp@2025.06.06-19.04.49",
+      "id": "pkg:github/clojure-lsp/clojure-lsp@2025.06.13-20.45.44",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -4341,7 +4341,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/CppCXY/emmylua-analyzer-rust@0.8.0",
+      "id": "pkg:github/CppCXY/emmylua-analyzer-rust@0.8.1",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -7805,7 +7805,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/stackrox/kube-linter@v0.7.2",
+      "id": "pkg:github/stackrox/kube-linter@v0.7.3",
       "asset": [
         {
           "target": "darwin_x64",
@@ -12865,7 +12865,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:npm/%40shopify/cli@3.81.0"
+      "id": "pkg:npm/%40shopify/cli@3.81.2"
     },
     "bin": {
       "shopify": "npm:shopify"
@@ -12982,7 +12982,7 @@
       "Compiler"
     ],
     "source": {
-      "id": "pkg:github/shader-slang/slang@v2025.10.3",
+      "id": "pkg:github/shader-slang/slang@v2025.10.4",
       "asset": [
         {
           "target": "linux_x64_gnu",
@@ -13741,7 +13741,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:pypi/sqlfluff@3.4.0"
+      "id": "pkg:pypi/sqlfluff@3.4.1"
     },
     "bin": {
       "sqlfluff": "pypi:sqlfluff"
@@ -15096,7 +15096,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:npm/textlint@14.8.0"
+      "id": "pkg:npm/textlint@14.8.1"
     },
     "bin": {
       "textlint": "npm:textlint"
@@ -15297,7 +15297,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/tilt-dev/tilt@v0.34.5",
+      "id": "pkg:github/tilt-dev/tilt@v0.35.0",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -15835,7 +15835,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:pypi/ty@0.0.1a9"
+      "id": "pkg:pypi/ty@0.0.1a10"
     },
     "bin": {
       "ty": "pypi:ty"
@@ -16711,7 +16711,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/forcedotcom/salesforcedx-vscode@v63.16.3",
+      "id": "pkg:github/forcedotcom/salesforcedx-vscode@v64.0.3",
       "asset": {
         "file": "salesforcedx-vscode-visualforce-{{ version | strip_prefix \"v\" }}.vsix"
       }

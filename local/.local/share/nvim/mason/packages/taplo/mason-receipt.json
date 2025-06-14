@@ -1,0 +1,1 @@
+{"metrics":{"start_time":1749878085556,"completion_time":1749878088364},"name":"taplo","schema_version":"1.1","secondary_sources":[],"primary_source":{"id":"pkg:github/tamasfe/taplo@0.10.0","type":"registry+v1"},"links":{"opt":{},"bin":{"taplo":"taplo-linux-x86_64"},"share":{}}}

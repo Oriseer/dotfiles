@@ -1,6 +1,17 @@
 {
     "$fdo_created": "1749824769",
-    "$fdo_modified": "1749826146",
+    "$fdo_modified": "1749870953",
+    "Brave Keys/Brave Safe Storage": {
+        "$fdo_created": "1749870953",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1749870953",
+        "attributes": {
+            "server": "Brave Keys",
+            "type": "plaintext",
+            "user": "Brave Safe Storage",
+            "xdg:schema": "org.qt.keychain"
+        }
+    },
     "Secret Service/Brave Safe Storage": {
         "$fdo_created": "1749824769",
         "$fdo_mime_type": "text/plain",

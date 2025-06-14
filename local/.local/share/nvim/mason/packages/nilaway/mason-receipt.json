@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","name":"nilaway","links":{"share":{},"bin":{"nilaway":"nilaway"},"opt":{}},"primary_source":{"type":"registry+v1","id":"pkg:golang/go.uber.org/nilaway@v0.0.0-20250605234149-5098b501249e#cmd/nilaway"},"metrics":{"completion_time":1749882179550,"start_time":1749882146743}}

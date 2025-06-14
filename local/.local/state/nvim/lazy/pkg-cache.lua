@@ -1,4 +1,4 @@
-return {version=12,pkgs={{file="lazy.lua",spec=function()
+return {version=12,pkgs={{source="lazy",spec=function()
 return {
   -- nui.nvim can be lazy loaded
   { "MunifTanjim/nui.nvim", lazy = true },
@@ -7,4 +7,4 @@ return {
   },
 }
 
-end,dir="/home/khel/.local/share/nvim/lazy/noice.nvim",source="lazy",name="noice.nvim",},{file="community",spec={"nvim-lua/plenary.nvim",lazy=true,},dir="/home/khel/.local/share/nvim/lazy/plenary.nvim",source="lazy",name="plenary.nvim",},},}
+end,dir="/home/khel/.local/share/nvim/lazy/noice.nvim",name="noice.nvim",file="lazy.lua",},{source="lazy",spec={"nvim-lua/plenary.nvim",lazy=true,},dir="/home/khel/.local/share/nvim/lazy/plenary.nvim",name="plenary.nvim",file="community",},},}

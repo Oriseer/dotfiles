@@ -10,3 +10,51 @@
 [INFO  Fri 13 Jun 2025 10:24:16 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
 [INFO  Fri 13 Jun 2025 10:24:22 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=json-lsp)
 [INFO  Fri 13 Jun 2025 10:24:23 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=bash-language-server)
+[INFO  Sat 14 Jun 2025 12:56:15 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Sat 14 Jun 2025 12:56:41 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gopls)
+[INFO  Sat 14 Jun 2025 12:56:49 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=staticcheck) {}
+[INFO  Sat 14 Jun 2025 12:57:03 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=staticcheck)
+[INFO  Sat 14 Jun 2025 12:57:04 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gospel) {}
+[ERROR Sat 14 Jun 2025 12:57:08 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. 
+[INFO  Sat 14 Jun 2025 12:57:49 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gospel) {}
+[ERROR Sat 14 Jun 2025 12:57:49 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. 
+[INFO  Sat 14 Jun 2025 12:57:55 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gospel) {}
+[ERROR Sat 14 Jun 2025 12:57:56 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. 
+[INFO  Sat 14 Jun 2025 12:57:56 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gospel) {}
+[ERROR Sat 14 Jun 2025 12:57:57 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. 
+[INFO  Sat 14 Jun 2025 12:57:58 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gospel) {}
+[ERROR Sat 14 Jun 2025 12:57:58 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. 
+[INFO  Sat 14 Jun 2025 12:58:34 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=golangci-lint) {}
+[INFO  Sat 14 Jun 2025 12:58:38 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=golangci-lint)
+[INFO  Sat 14 Jun 2025 12:59:37 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Sat 14 Jun 2025 12:59:43 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Sat 14 Jun 2025 12:59:44 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=goimports)
+[INFO  Sat 14 Jun 2025 12:59:48 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gofumpt)
+[INFO  Sat 14 Jun 2025 01:00:27 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports-reviser) {}
+[INFO  Sat 14 Jun 2025 01:00:29 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=goimports-reviser)
+[INFO  Sat 14 Jun 2025 01:00:40 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=golines) {}
+[INFO  Sat 14 Jun 2025 01:00:47 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=golines)
+[INFO  Sat 14 Jun 2025 01:00:54 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gomodifytags) {}
+[INFO  Sat 14 Jun 2025 01:01:01 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gomodifytags)
+[INFO  Sat 14 Jun 2025 01:09:17 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=golangci-lint-langserver) {}
+[INFO  Sat 14 Jun 2025 01:09:19 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=golangci-lint-langserver)
+[INFO  Sat 14 Jun 2025 01:14:45 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sat 14 Jun 2025 01:14:45 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sat 14 Jun 2025 01:14:45 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=sqlfluff) {}
+[INFO  Sat 14 Jun 2025 01:14:45 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=taplo) {}
+[INFO  Sat 14 Jun 2025 01:14:48 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=marksman) {}
+[INFO  Sat 14 Jun 2025 01:14:48 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=taplo)
+[INFO  Sat 14 Jun 2025 01:14:53 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=marksman)
+[INFO  Sat 14 Jun 2025 01:14:59 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=markdownlint-cli2)
+[INFO  Sat 14 Jun 2025 01:14:59 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=markdown-toc)
+[INFO  Sat 14 Jun 2025 01:15:05 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=sqlfluff)
+[INFO  Sat 14 Jun 2025 02:21:25 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gospel) {}
+[ERROR Sat 14 Jun 2025 02:21:27 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. 
+[INFO  Sat 14 Jun 2025 02:22:26 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=nilaway) {}
+[INFO  Sat 14 Jun 2025 02:22:59 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=nilaway)
+[INFO  Sat 14 Jun 2025 02:25:43 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gospel) {}
+[ERROR Sat 14 Jun 2025 02:25:45 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. 
+[INFO  Sat 14 Jun 2025 02:26:08 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gospel) {}
+[ERROR Sat 14 Jun 2025 02:26:09 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gospel) error=spawn: go failed with exit code 1 and signal 0. 
+[INFO  Sat 14 Jun 2025 02:26:22 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ast-grep) {}
+[INFO  Sat 14 Jun 2025 02:26:30 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ast-grep)
