@@ -13,11 +13,10 @@ if &shortmess =~ 'A'
 else
   set shortmess=aoO
 endif
-badd +35 ~/KhelDev/go/expense_tracker/internal/expense_tracker_cli.go
-badd +116 ~/KhelDev/go/expense_tracker/internal/expense_tracker_cli_test.go
+badd +34 ~/KhelDev/go/expense_tracker/internal/expense_tracker_cli.go
 argglobal
 %argdel
-edit ~/KhelDev/go/expense_tracker/internal/expense_tracker_cli_test.go
+edit ~/KhelDev/go/expense_tracker/internal/expense_tracker_cli.go
 wincmd t
 let s:save_winminheight = &winminheight
 let s:save_winminwidth = &winminwidth
@@ -26,7 +25,6 @@ set winheight=1
 set winminwidth=0
 set winwidth=1
 argglobal
-balt ~/KhelDev/go/expense_tracker/internal/expense_tracker_cli.go
 setlocal foldmethod=expr
 setlocal foldexpr=v:lua.require'lazyvim.util'.ui.foldexpr()
 setlocal foldmarker={{{,}}}
@@ -35,50 +33,12 @@ setlocal foldlevel=99
 setlocal foldminlines=1
 setlocal foldnestmax=20
 setlocal foldenable
-23
-sil! normal! zo
-24
-sil! normal! zo
-51
-sil! normal! zo
-52
-sil! normal! zo
-61
-sil! normal! zo
-70
-sil! normal! zo
-71
-sil! normal! zo
-88
-sil! normal! zo
-89
-sil! normal! zo
-98
-sil! normal! zo
-88
-sil! normal! zo
-89
-sil! normal! zo
-95
-sil! normal! zo
-98
-sil! normal! zo
-107
-sil! normal! zo
-108
-sil! normal! zo
-125
-sil! normal! zo
-126
-sil! normal! zo
-135
-sil! normal! zo
-let s:l = 116 - ((10 * winheight(0) + 18) / 36)
+let s:l = 34 - ((18 * winheight(0) + 18) / 37)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 116
-normal! 011|
+keepjumps 34
+normal! 0
 tabnext 1
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0 && getbufvar(s:wipebuf, '&buftype') isnot# 'terminal'
   silent exe 'bwipe ' . s:wipebuf

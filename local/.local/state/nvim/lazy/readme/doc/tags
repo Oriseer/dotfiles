@@ -1,12 +1,4 @@
 !_TAG_FILE_ENCODING	utf-8	//
-blink-cmp-copilot-blink-cmp-copilot	blink-cmp-copilot.md	/# blink-cmp-copilot
-blink-cmp-copilot-configuration	blink-cmp-copilot.md	/### Configuration:
-blink-cmp-copilot-copilot-kind-icon	blink-cmp-copilot.md	/#### Copilot Kind Icon
-blink-cmp-copilot-install	blink-cmp-copilot.md	/### Install
-blink-cmp-copilot-lazy	blink-cmp-copilot.md	/#### Lazy
-blink-cmp-copilot-packer	blink-cmp-copilot.md	/#### Packer
-blink-cmp-copilot-setup	blink-cmp-copilot.md	/## Setup
-blink-cmp-copilot-source-definition	blink-cmp-copilot.md	/#### Source Definition
 friendly-snippets-add-snippets-from-a-framework-to-a-filetype	friendly-snippets.md	/## Add snippets from a framework to a filetype.
 friendly-snippets-credits	friendly-snippets.md	/## Credits
 friendly-snippets-excluding-snippets	friendly-snippets.md	/## Excluding snippets
@@ -195,6 +187,20 @@ nui.nvim-nuitree-lua-nui-tree	nui.nvim.md	/### \[NuiTree\](lua\/nui\/tree)
 nui.nvim-popup-lua-nui-popup	nui.nvim.md	/### \[Popup\](lua\/nui\/popup)
 nui.nvim-requirements	nui.nvim.md	/## Requirements
 nui.nvim-split-lua-nui-split	nui.nvim.md	/### \[Split\](lua\/nui\/split)
+nvim-tmux-navigation-additional-help	nvim-tmux-navigation.md	/## Additional help
+nvim-tmux-navigation-alternatives	nvim-tmux-navigation.md	/## Alternatives
+nvim-tmux-navigation-author	nvim-tmux-navigation.md	/## Author
+nvim-tmux-navigation-configuration	nvim-tmux-navigation.md	/## Configuration
+nvim-tmux-navigation-decide-whether-we-re-in-a-vim-process	nvim-tmux-navigation.md	/# decide whether we're in a Vim process
+nvim-tmux-navigation-faq	nvim-tmux-navigation.md	/## FAQ
+nvim-tmux-navigation-installation	nvim-tmux-navigation.md	/## Installation
+nvim-tmux-navigation-license	nvim-tmux-navigation.md	/## License
+nvim-tmux-navigation-neovim	nvim-tmux-navigation.md	/### Neovim
+nvim-tmux-navigation-see-https-github-com-christoomey-vim-tmux-navigator	nvim-tmux-navigation.md	/# See: https:\/\/github.com\/christoomey\/vim-tmux-navigator
+nvim-tmux-navigation-smart-pane-switching-with-awareness-of-vim-splits	nvim-tmux-navigation.md	/# Smart pane switching with awareness of Vim splits.
+nvim-tmux-navigation-tmux	nvim-tmux-navigation.md	/### Tmux
+nvim-tmux-navigation-tmux-plugin-manager	nvim-tmux-navigation.md	/#### Tmux Plugin Manager
+nvim-tmux-navigation-usage	nvim-tmux-navigation.md	/## Usage
 nvim-ts-autotag-a-note-on-lazy-loading	nvim-ts-autotag.md	/### A note on lazy loading
 nvim-ts-autotag-contributors	nvim-ts-autotag.md	/## Contributors
 nvim-ts-autotag-enable-update-on-insert	nvim-ts-autotag.md	/### Enable update on insert

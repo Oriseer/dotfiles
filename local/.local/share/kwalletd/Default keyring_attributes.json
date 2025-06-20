@@ -1,6 +1,6 @@
 {
     "$fdo_created": "1749824769",
-    "$fdo_modified": "1749870953",
+    "$fdo_modified": "1750129447",
     "Brave Keys/Brave Safe Storage": {
         "$fdo_created": "1749870953",
         "$fdo_mime_type": "text/plain",
@@ -22,9 +22,9 @@
         }
     },
     "Secret Service/Chrome Safe Storage Control": {
-        "$fdo_created": "1749826146",
+        "$fdo_created": "1750129447",
         "$fdo_mime_type": "text/plain",
-        "$fdo_modified": "1749826146",
+        "$fdo_modified": "1750129447",
         "attributes": {
             "explanation": "Because of quirks in the gnome libsecret API, Chrome needs to store a dummy entry to guarantee that this keyring was properly unlocked. More details at http://crbug.com/660005.",
             "xdg:schema": "_chrome_dummy_schema_for_unlocking"
