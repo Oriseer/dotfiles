@@ -14,17 +14,6 @@ friendly-snippets-with-coc-nvim	friendly-snippets.md	/### With coc.nvim
 friendly-snippets-with-lazy-nvim	friendly-snippets.md	/### With Lazy.nvim
 friendly-snippets-with-packer	friendly-snippets.md	/### With Packer
 friendly-snippets-with-vim-plug	friendly-snippets.md	/### With vim-plug
-markdown-preview.nvim-about-vim-support	markdown-preview.nvim.md	/### About Vim Support
-markdown-preview.nvim-buy-me-a-coffee	markdown-preview.nvim.md	/### Buy Me A Coffee ☕️
-markdown-preview.nvim-custom-examples	markdown-preview.nvim.md	/### Custom Examples
-markdown-preview.nvim-faq	markdown-preview.nvim.md	/### FAQ
-markdown-preview.nvim-how-can-i-change-the-dark-light-theme	markdown-preview.nvim.md	/#### *How can I change the dark\/light theme?*
-markdown-preview.nvim-how-can-i-pass-cli-options-to-the-browser-like-opening-in-a-new-window	markdown-preview.nvim.md	/#### *How can I pass CLI options to the browser, like opening in a new window?*
-markdown-preview.nvim-installation-usage	markdown-preview.nvim.md	/### Installation & Usage
-markdown-preview.nvim-introduction	markdown-preview.nvim.md	/### Introduction
-markdown-preview.nvim-markdownpreview-config	markdown-preview.nvim.md	/### MarkdownPreview Config:
-markdown-preview.nvim-references	markdown-preview.nvim.md	/### References
-markdown-preview.nvim-why-is-the-synchronised-scrolling-lagging	markdown-preview.nvim.md	/#### *Why is the synchronised scrolling lagging?*
 nui.nvim-blocks	nui.nvim.md	/## Blocks
 nui.nvim-components	nui.nvim.md	/## Components
 nui.nvim-extendibility	nui.nvim.md	/## Extendibility

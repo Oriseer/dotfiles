@@ -1,6 +1,0 @@
-2025-06-17 18:02:17[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: unexpected token `,` (10:6 to 10:7), expected a field
-
-2025-06-17 18:02:56[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: unexpected token `,` (12:2 to 12:3), trailing commas are not allowed
-
-2025-06-20 13:57:04[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: unexpected token `{` (5:1 to 5:2), unexpected token, this needs to be a statement
-
