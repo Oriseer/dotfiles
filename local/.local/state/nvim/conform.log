@@ -1,0 +1,8 @@
+2025-06-28 21:48:04[ERROR] Formatter 'goimports' error: /home/donkhekong/KhelDev/go/projects/cmd/cli/<standard input>:3:1: expected declaration, found fu
+
+2025-06-28 21:55:33[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: unexpected token `{` (1:1 to 1:2), unexpected token, this needs to be a statement
+
+2025-06-28 22:14:10[ERROR] Formatter 'goimports' error: /home/donkhekong/KhelDev/go/projects/cmd/cli/<standard input>:3:7: expected 'IDENT', found 'EOF'
+
+2025-07-04 14:07:18[ERROR] Formatter 'goimports' error: /home/donkhekong/KhelDev/go/projects/cmd/cli/<standard input>:5:2: expected 'IDENT', found 'EOF'
+

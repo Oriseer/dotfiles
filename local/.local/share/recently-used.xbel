@@ -2,4 +2,25 @@
 <xbel version="1.0"
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
-></xbel>
+>
+  <bookmark href="file:///home/donkhekong/Downloads/Style-Plasma.tar.gz" added="2025-06-28T14:17:36.418733Z" modified="2025-06-28T14:17:36.418744Z" visited="2025-06-28T14:17:36.418735Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-28T14:17:36.418737Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/donkhekong/Downloads/Noir-SDDM-6.tar.gz" added="2025-06-28T14:34:11.745188Z" modified="2025-06-28T14:34:11.745197Z" visited="2025-06-28T14:34:11.745190Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-06-28T14:34:11.745192Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -12,6 +12,7 @@
    <withBaloo>true</withBaloo>
    <GroupState-SearchFor-IsHidden>false</GroupState-SearchFor-IsHidden>
    <GroupState-RecentlySaved-IsHidden>false</GroupState-RecentlySaved-IsHidden>
+   <withRecentlyUsed>true</withRecentlyUsed>
   </metadata>
  </info>
  <bookmark href="file:///home/khel">
@@ -94,6 +95,30 @@
    </metadata>
    <metadata owner="http://www.kde.org">
     <ID>1749824968/4</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="recentlyused:/files">
+  <title>Recent Files</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="document-open-recent"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1751430139/0</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="recentlyused:/locations">
+  <title>Recent Locations</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder-open-recent"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1751430139/1</ID>
     <isSystemItem>true</isSystemItem>
    </metadata>
   </info>

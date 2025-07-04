@@ -1,10 +1,10 @@
-[21:28:29.992][info] [#0:/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: Lua Lsp startup, root: 	/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec
-[21:28:29.992][info] [#0:/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: ROOT:	/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec
-[21:28:29.992][info] [#0:/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: LOGPATH:	/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/log
-[21:28:29.992][info] [#0:/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:71]: METAPATH:	/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/meta
-[21:28:29.992][info] [#0:/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:72]: VERSION:	3.15.0
-[21:28:30.022][info] [#0:script/proto/proto.lua:260]: Listen Mode: stdio
-[21:28:30.022][info] [#0:script/service/service.lua:145]: 
+[13:33:02.819][info] [#0:/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: Lua Lsp startup, root: 	/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec
+[13:33:02.819][info] [#0:/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: ROOT:	/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec
+[13:33:02.819][info] [#0:/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: LOGPATH:	/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/log
+[13:33:02.819][info] [#0:/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:71]: METAPATH:	/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/meta
+[13:33:02.820][info] [#0:/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:72]: VERSION:	3.15.0
+[13:33:02.864][info] [#0:script/proto/proto.lua:260]: Listen Mode: stdio
+[13:33:02.865][info] [#0:script/service/service.lua:145]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 2.267 MB
@@ -26,7 +26,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[21:28:30.130][info] [#0:script/client.lua:657]: Client init	{
+[13:33:02.975][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     general = {
       positionEncodings = { "utf-8", "utf-16", "utf-32" }
@@ -228,7 +228,7 @@
     version = "0.11.2+dirty"
   },
   initializationOptions = {},
-  processId = 29681,
+  processId = 9019,
   rootPath = "/home/donkhekong/dotfiles/nvim/.config/nvim",
   rootUri = "file:///home/donkhekong/dotfiles/nvim/.config/nvim",
   trace = "off",
@@ -238,7 +238,7 @@
       uri = "file:///home/donkhekong/dotfiles/nvim/.config/nvim"
     } }
 }
-[21:28:30.130][info] [#0:script/language.lua:137]: VSC language: nil
-[21:28:30.130][info] [#0:script/language.lua:138]: LS  language: en-us
-[21:28:30.130][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/donkhekong/dotfiles/nvim/.config/nvim
-[21:28:30.130][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/log/file_home_donkhekong_dotfiles_nvim_.config_nvim.log
+[13:33:02.975][info] [#0:script/language.lua:137]: VSC language: nil
+[13:33:02.975][info] [#0:script/language.lua:138]: LS  language: en-us
+[13:33:02.975][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/donkhekong/dotfiles/nvim/.config/nvim
+[13:33:02.975][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/donkhekong/dotfiles/local/.local/share/nvim/mason/packages/lua-language-server/libexec/log/file_home_donkhekong_dotfiles_nvim_.config_nvim.log

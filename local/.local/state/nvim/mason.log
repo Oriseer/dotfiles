@@ -4,3 +4,105 @@
 [INFO  Sat 28 Jun 2025 04:15:25 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
 [INFO  Sat 28 Jun 2025 04:16:26 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
 [INFO  Sat 28 Jun 2025 04:16:28 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Sat 28 Jun 2025 09:36:53 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Sat 28 Jun 2025 09:36:53 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Sat 28 Jun 2025 09:36:53 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sat 28 Jun 2025 09:36:53 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sat 28 Jun 2025 09:36:54 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=sqlfluff) {}
+[ERROR Sat 28 Jun 2025 09:36:54 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:36:54 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shellcheck) {}
+[ERROR Sat 28 Jun 2025 09:36:54 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:36:58 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  Sat 28 Jun 2025 09:36:58 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shellcheck)
+[INFO  Sat 28 Jun 2025 09:36:58 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=taplo) {}
+[ERROR Sat 28 Jun 2025 09:36:58 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=bash-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:37:01 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=yaml-language-server) {}
+[INFO  Sat 28 Jun 2025 09:37:01 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=taplo)
+[INFO  Sat 28 Jun 2025 09:37:01 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=marksman) {}
+[ERROR Sat 28 Jun 2025 09:37:01 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=yaml-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:37:05 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Sat 28 Jun 2025 09:37:05 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gofumpt)
+[INFO  Sat 28 Jun 2025 09:37:05 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Sat 28 Jun 2025 09:37:05 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=marksman)
+[ERROR Sat 28 Jun 2025 09:37:05 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:37:06 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=goimports)
+[INFO  Sat 28 Jun 2025 09:37:11 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=sqlfluff)
+[INFO  Sat 28 Jun 2025 09:37:32 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gopls)
+[INFO  Sat 28 Jun 2025 09:40:13 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sat 28 Jun 2025 09:40:13 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sat 28 Jun 2025 09:40:13 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Sat 28 Jun 2025 09:40:13 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  Sat 28 Jun 2025 09:40:13 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=yaml-language-server) {}
+[ERROR Sat 28 Jun 2025 09:40:13 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:40:13 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:40:13 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=bash-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:40:13 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:40:13 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=yaml-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:40:59 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sat 28 Jun 2025 09:40:59 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sat 28 Jun 2025 09:40:59 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=yaml-language-server) {}
+[INFO  Sat 28 Jun 2025 09:40:59 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  Sat 28 Jun 2025 09:40:59 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Sat 28 Jun 2025 09:40:59 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:40:59 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:40:59 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=yaml-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:40:59 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=bash-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:40:59 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:42:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sat 28 Jun 2025 09:42:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sat 28 Jun 2025 09:42:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Sat 28 Jun 2025 09:42:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=yaml-language-server) {}
+[INFO  Sat 28 Jun 2025 09:42:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[ERROR Sat 28 Jun 2025 09:42:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:42:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:42:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:42:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=yaml-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:42:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=bash-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:45:10 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sat 28 Jun 2025 09:45:10 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sat 28 Jun 2025 09:45:10 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  Sat 28 Jun 2025 09:45:10 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Sat 28 Jun 2025 09:45:10 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=yaml-language-server) {}
+[ERROR Sat 28 Jun 2025 09:45:10 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:45:10 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:45:10 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=bash-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:45:10 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:45:10 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=yaml-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:46:04 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sat 28 Jun 2025 09:46:04 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sat 28 Jun 2025 09:46:04 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  Sat 28 Jun 2025 09:46:04 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Sat 28 Jun 2025 09:46:04 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=yaml-language-server) {}
+[ERROR Sat 28 Jun 2025 09:46:04 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:46:04 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:46:04 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=bash-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:46:04 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:46:04 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=yaml-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:46:42 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sat 28 Jun 2025 09:46:42 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sat 28 Jun 2025 09:46:42 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  Sat 28 Jun 2025 09:46:42 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=yaml-language-server) {}
+[INFO  Sat 28 Jun 2025 09:46:43 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Sat 28 Jun 2025 09:46:43 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:46:43 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:46:43 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=yaml-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:46:43 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=bash-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sat 28 Jun 2025 09:46:43 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 28 Jun 2025 09:47:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sat 28 Jun 2025 09:47:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sat 28 Jun 2025 09:47:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  Sat 28 Jun 2025 09:47:15 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Sat 28 Jun 2025 09:47:21 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error="Installation was aborted."
+[ERROR Sat 28 Jun 2025 09:47:21 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error="Installation was aborted."
+[ERROR Sat 28 Jun 2025 09:47:22 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error="Installation was aborted."
+[ERROR Sat 28 Jun 2025 09:47:22 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=bash-language-server) error="Installation was aborted."
+[INFO  Sat 28 Jun 2025 09:47:28 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sat 28 Jun 2025 09:47:28 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sat 28 Jun 2025 09:47:28 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Sat 28 Jun 2025 09:47:28 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  Sat 28 Jun 2025 09:47:31 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=yaml-language-server) {}
+[INFO  Sat 28 Jun 2025 09:47:31 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=bash-language-server)
+[INFO  Sat 28 Jun 2025 09:47:32 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=markdownlint-cli2)
+[INFO  Sat 28 Jun 2025 09:47:32 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=json-lsp)
+[INFO  Sat 28 Jun 2025 09:47:33 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=markdown-toc)
+[INFO  Sat 28 Jun 2025 09:47:35 PM +08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=yaml-language-server)

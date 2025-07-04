@@ -1,4 +1,12 @@
 !_TAG_FILE_ENCODING	utf-8	//
+blink-cmp-copilot-blink-cmp-copilot	blink-cmp-copilot.md	/# blink-cmp-copilot
+blink-cmp-copilot-configuration	blink-cmp-copilot.md	/### Configuration:
+blink-cmp-copilot-copilot-kind-icon	blink-cmp-copilot.md	/#### Copilot Kind Icon
+blink-cmp-copilot-install	blink-cmp-copilot.md	/### Install
+blink-cmp-copilot-lazy	blink-cmp-copilot.md	/#### Lazy
+blink-cmp-copilot-packer	blink-cmp-copilot.md	/#### Packer
+blink-cmp-copilot-setup	blink-cmp-copilot.md	/## Setup
+blink-cmp-copilot-source-definition	blink-cmp-copilot.md	/#### Source Definition
 friendly-snippets-add-snippets-from-a-framework-to-a-filetype	friendly-snippets.md	/## Add snippets from a framework to a filetype.
 friendly-snippets-credits	friendly-snippets.md	/## Credits
 friendly-snippets-excluding-snippets	friendly-snippets.md	/## Excluding snippets
@@ -14,6 +22,37 @@ friendly-snippets-with-coc-nvim	friendly-snippets.md	/### With coc.nvim
 friendly-snippets-with-lazy-nvim	friendly-snippets.md	/### With Lazy.nvim
 friendly-snippets-with-packer	friendly-snippets.md	/### With Packer
 friendly-snippets-with-vim-plug	friendly-snippets.md	/### With vim-plug
+kanagawa.nvim-accessibility	kanagawa.nvim.md	/## Accessibility
+kanagawa.nvim-acknowledgements	kanagawa.nvim.md	/## Acknowledgements
+kanagawa.nvim-borderless-telescope	kanagawa.nvim.md	/#### Borderless Telescope
+kanagawa.nvim-common-customizations	kanagawa.nvim.md	/### Common customizations
+kanagawa.nvim-configuration	kanagawa.nvim.md	/## Configuration
+kanagawa.nvim-customization	kanagawa.nvim.md	/## Customization
+kanagawa.nvim-dark-completion-popup-menu	kanagawa.nvim.md	/#### Dark completion (popup) menu
+kanagawa.nvim-donate	kanagawa.nvim.md	/### Donate
+kanagawa.nvim-extras	kanagawa.nvim.md	/## Extras
+kanagawa.nvim-features	kanagawa.nvim.md	/## Features
+kanagawa.nvim-get-palette-and-theme-colors	kanagawa.nvim.md	/### Get palette and theme colors
+kanagawa.nvim-installation	kanagawa.nvim.md	/## Installation
+kanagawa.nvim-integration	kanagawa.nvim.md	/## Integration
+kanagawa.nvim-remove-gutter-background	kanagawa.nvim.md	/#### Remove _gutter_ background
+kanagawa.nvim-requirements	kanagawa.nvim.md	/## Requirements
+kanagawa.nvim-terminal-integration	kanagawa.nvim.md	/### Terminal integration
+kanagawa.nvim-themes	kanagawa.nvim.md	/## Themes
+kanagawa.nvim-tint-background-of-diagnostic-messages-with-their-foreground-color	kanagawa.nvim.md	/#### Tint background of diagnostic messages with their foreground color
+kanagawa.nvim-transparent-floating-windows	kanagawa.nvim.md	/#### Transparent Floating Windows
+kanagawa.nvim-usage	kanagawa.nvim.md	/## Usage
+markdown-preview.nvim-about-vim-support	markdown-preview.nvim.md	/### About Vim Support
+markdown-preview.nvim-buy-me-a-coffee	markdown-preview.nvim.md	/### Buy Me A Coffee ☕️
+markdown-preview.nvim-custom-examples	markdown-preview.nvim.md	/### Custom Examples
+markdown-preview.nvim-faq	markdown-preview.nvim.md	/### FAQ
+markdown-preview.nvim-how-can-i-change-the-dark-light-theme	markdown-preview.nvim.md	/#### *How can I change the dark\/light theme?*
+markdown-preview.nvim-how-can-i-pass-cli-options-to-the-browser-like-opening-in-a-new-window	markdown-preview.nvim.md	/#### *How can I pass CLI options to the browser, like opening in a new window?*
+markdown-preview.nvim-installation-usage	markdown-preview.nvim.md	/### Installation & Usage
+markdown-preview.nvim-introduction	markdown-preview.nvim.md	/### Introduction
+markdown-preview.nvim-markdownpreview-config	markdown-preview.nvim.md	/### MarkdownPreview Config:
+markdown-preview.nvim-references	markdown-preview.nvim.md	/### References
+markdown-preview.nvim-why-is-the-synchronised-scrolling-lagging	markdown-preview.nvim.md	/#### *Why is the synchronised scrolling lagging?*
 nui.nvim-blocks	nui.nvim.md	/## Blocks
 nui.nvim-components	nui.nvim.md	/## Components
 nui.nvim-extendibility	nui.nvim.md	/## Extendibility

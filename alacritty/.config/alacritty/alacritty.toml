@@ -1,7 +1,5 @@
 [general]
-import = [
-    "~/.config/alacritty/themes/themes/tokyo-night.toml"
-]
+import = ["~/.config/alacritty/themes/themes/kanagawa.toml"]
 
 [window]
 blur = true
@@ -18,4 +16,3 @@ family = "Hack Nerd Font"
 
 [font]
 size = 16
-

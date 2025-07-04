@@ -13,10 +13,10 @@ if &shortmess =~ 'A'
 else
   set shortmess=aoO
 endif
-badd +1 ~/.config/nvim/lua/plugins/dadbod.lua
+badd +1 nvim/.config/nvim/lua/plugins/dadbod.lua
 argglobal
 %argdel
-edit ~/.config/nvim/lua/plugins/dadbod.lua
+edit nvim/.config/nvim/lua/plugins/dadbod.lua
 wincmd t
 let s:save_winminheight = &winminheight
 let s:save_winminwidth = &winminwidth
